@@ -11,10 +11,10 @@
 
 * TradingView offers a stock screener, foreign exchange screener, cryptocurrency pairs screener, cryptocurrency coins screener, and stock heatmap.
 * The platform makes most of its money through low cost monthly subscriptions and ads.
-* Subscription Fees: Offering different subscription plans (Pro, Pro+, Premium) with varying features and benefits​​.
-* Advertising: Monetizing through banner ads placed within its trading platform​​.
-* Licensing Fees: Earning from licensing its charting solutions to other portals​​.
-* Referral Fees: Gaining from referral fees for promoting brokerages and exchanges, and providing subscription plans for brokerages.
+  - Subscription Fees: Offering different subscription plans (Pro, Pro+, Premium) with varying features and benefits​​.
+  - Advertising: Monetizing through banner ads placed within its trading platform​​.
+  - Licensing Fees: Earning from licensing its charting solutions to other portals​​.
+  - Referral Fees: Gaining from referral fees for promoting brokerages and exchanges, and providing subscription plans for brokerages.
 
 ## Landscape:
 
