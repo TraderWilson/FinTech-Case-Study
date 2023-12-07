@@ -22,19 +22,19 @@
   - Financial Charting and Analysis: TradingView specializes in providing a platform for financial charting and analysis, catering to both individual retail traders and institutional investors.
   - Social Networking for Traders: A unique aspect of TradingView's offering is its integration of social networking features, where users can share insights, follow traders, and engage with a community.
 
-* What have been the major trends and innovations of this domain over the last 5-10 years?
-* Social Trading and Community Features: Platforms like TradingView have integrated social networking elements, allowing users to share and discuss trading strategies, which has revolutionized how traders interact and learn from each other.
-* Accessibility and User-Friendly Interfaces: There has been a significant trend towards making complex financial data and charting more accessible and user-friendly for the average investor, including mobile app development.
-* Customization and Advanced Analytical Tools: The development of proprietary scripting languages like TradingView's Pine Script has enabled deep customization and advanced analysis capabilities for users.
-* Integration with Brokerages and Direct Trading: Some platforms now offer direct integration with brokerage accounts, allowing users to trade directly from the charting platform.
-* Expansion into Cryptocurrency and Diverse Asset Classes: With the rise of cryptocurrency, many platforms have expanded to include a variety of asset classes beyond traditional stocks and forex.
+* **What have been the major trends and innovations of this domain over the last 5-10 years?**
+  - Social Trading and Community Features: Platforms like TradingView have integrated social networking elements, allowing users to share and discuss trading strategies, which has revolutionized how traders interact and learn from each other.
+  - Accessibility and User-Friendly Interfaces: There has been a significant trend towards making complex financial data and charting more accessible and user-friendly for the average investor, including mobile app development.
+  - Customization and Advanced Analytical Tools: The development of proprietary scripting languages like TradingView's Pine Script has enabled deep customization and advanced analysis capabilities for users.
+  - Integration with Brokerages and Direct Trading: Some platforms now offer direct integration with brokerage accounts, allowing users to trade directly from the charting platform.
+  - Expansion into Cryptocurrency and Diverse Asset Classes: With the rise of cryptocurrency, many platforms have expanded to include a variety of asset classes beyond traditional stocks and forex.
 
 * What are the other major companies in this domain?
-* Bloomberg Terminal: A major player providing comprehensive financial data, analysis tools, and a messaging network.
-* MetaTrader (MT4/MT5): Widely used for forex trading, offering advanced charting tools, trading robots, and technical indicators.
-* Thinkorswim by TD Ameritrade: Known for its powerful trading tools, especially for options trading, and integrating trading with educational resources.
-* eToro: Combines social trading with a brokerage platform, allowing users to follow and copy the trades of experienced investors.
-* Interactive Brokers: Offers a robust trading platform with advanced charting and analysis tools, catering to professional traders and investors.
+  - Bloomberg Terminal: A major player providing comprehensive financial data, analysis tools, and a messaging network.
+  - MetaTrader (MT4/MT5): Widely used for forex trading, offering advanced charting tools, trading robots, and technical indicators.
+  - Thinkorswim by TD Ameritrade: Known for its powerful trading tools, especially for options trading, and integrating trading with educational resources.
+  - eToro: Combines social trading with a brokerage platform, allowing users to follow and copy the trades of experienced investors.
+  - Interactive Brokers: Offers a robust trading platform with advanced charting and analysis tools, catering to professional traders and investors.
 
 ## Results
 
