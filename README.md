@@ -1,45 +1,44 @@
-# NinjaTrader
+# TradingView
 
 ## Overview and Origin
 
-* NinjaTrader was founded in 2003 and is headquartered in the Greater Denver Area. Its legal name is NinjaTrader Group, LLC.
-* Raymond Deux is the founder and Executive Chairman of NinjaTrader. He has worked at NinjaTrader Group for 21 years.
-* NinjaTrader has raised 1 round. This was a Private Equity round raised on Jan 6, 2020.
-* DRW Venture Capital and Long Ridge Equity Partners are the most recent investors.
-* NinjaTrader has acquired Tradovate on Jan 12, 2022. They acquired Tradovate for $115M.
+* TradingView was founded on September 1, 2011. The company was founded by Stan Bokov, Denis Globa, and Constantin Ivanov.
+* TradingView is a web-based financial platform that offers charting and social networking for traders and investors. It has over 50 million users globally. The platform helps users understand financial markets by discussing investment ideas in an open forum.
+* TradingView is headquartered in New York and has its European market headquarters in London. It has headquarters regions in Europe, Middle East, and Africa (EMEA).
+* Since its inception, TradingView has experienced significant growth, raising over $338 million in venture funding and becoming the world’s leading charting platform​.
 
 ## Business Activities:
 
-* Financial Problem Addressed: NinjaTrader primarily addresses the needs of active traders by providing a robust and efficient trading platform. It aims to solve issues like the need for advanced charting tools, market analytics, and efficient trade execution.
-* Intended Customer: The platform is designed for active traders, including both individual retail traders and professionals. This audience typically requires sophisticated tools for market analysis, strategy backtesting, and fast execution of trades.
-* Market Size: While specific market size data for NinjaTrader's customer base isn't readily available, the overall market for online trading platforms is substantial and has been growing, especially with the increasing popularity of individual retail trading.
-* Technologies Used: NinjaTrader uses advanced technologies for its trading platform, which include:
-  *** Real-time Market Data: Offering up-to-date market information.
-  *** Advanced Charting Tools: For detailed technical analysis.
-  *** Trade Simulation: Allowing traders to practice strategies in a simulated environment.
-  *** Automated Trading Capabilities: Enabling traders to automate their trading strategies.
-  *** Cloud-based Solutions: For accessibility and data security.
-* Implementation: These technologies are implemented through NinjaTrader's software platform, which is known for its customization capabilities, allowing traders to tailor the platform to their specific trading needs and strategies.
+* TradingView offers a stock screener, foreign exchange screener, cryptocurrency pairs screener, cryptocurrency coins screener, and stock heatmap.
+* The platform makes most of its money through low cost monthly subscriptions and ads.
+* Subscription Fees: Offering different subscription plans (Pro, Pro+, Premium) with varying features and benefits​​.
+* Advertising: Monetizing through banner ads placed within its trading platform​​.
+* Licensing Fees: Earning from licensing its charting solutions to other portals​​.
+* Referral Fees: Gaining from referral fees for promoting brokerages and exchanges, and providing subscription plans for brokerages.
 
 ## Landscape:
 
 * What domain of the financial industry is the company in?
-* NinjaTrader is primarily in the domain of futures brokerage.
-* The company offers trading software and brokerage services specifically designed for active futures traders​​.
+* Financial Charting and Analysis: TradingView specializes in providing a platform for financial charting and analysis, catering to both individual retail traders and institutional investors.
+* Social Networking for Traders: A unique aspect of TradingView's offering is its integration of social networking features, where users can share insights, follow traders, and engage with a community.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
-* The futures trading industry has seen significant innovation in technology and accessibility. This includes the development of more user-friendly trading platforms, enhanced educational resources, and mobile trading applications.
-* NinjaTrader has been part of these trends by developing new technology, features, and products to make futures trading more accessible. This includes the introduction of mobile and web apps and a focus on educational tools to support informed trading decisions​​​​​​.
-* The industry has also seen a growth in cloud-based trading platforms, allowing traders to operate from various locations and devices, which NinjaTrader has embraced​
+* Social Trading and Community Features: Platforms like TradingView have integrated social networking elements, allowing users to share and discuss trading strategies, which has revolutionized how traders interact and learn from each other.
+* Accessibility and User-Friendly Interfaces: There has been a significant trend towards making complex financial data and charting more accessible and user-friendly for the average investor, including mobile app development.
+* Customization and Advanced Analytical Tools: The development of proprietary scripting languages like TradingView's Pine Script has enabled deep customization and advanced analysis capabilities for users.
+* Integration with Brokerages and Direct Trading: Some platforms now offer direct integration with brokerage accounts, allowing users to trade directly from the charting platform.
+* Expansion into Cryptocurrency and Diverse Asset Classes: With the rise of cryptocurrency, many platforms have expanded to include a variety of asset classes beyond traditional stocks and forex.
 
 * What are the other major companies in this domain?
-* The futures brokerage market includes a variety of players ranging from specialized boutique firms to large financial institutions offering futures trading services.
-These companies often provide a mix of brokerage services, trading software, and educational resources, similar to NinjaTrader's offerings, such as ThinkOrSwim, Interactive Broker, Quandl, and so on.
+* Bloomberg Terminal: A major player providing comprehensive financial data, analysis tools, and a messaging network.
+* MetaTrader (MT4/MT5): Widely used for forex trading, offering advanced charting tools, trading robots, and technical indicators.
+* Thinkorswim by TD Ameritrade: Known for its powerful trading tools, especially for options trading, and integrating trading with educational resources.
+* eToro: Combines social trading with a brokerage platform, allowing users to follow and copy the trades of experienced investors.
+* Interactive Brokers: Offers a robust trading platform with advanced charting and analysis tools, catering to professional traders and investors.
 
 ## Results
 
 * What has been the business impact of this company so far?
-* NinjaTrader Named Best Brokerage For Trading Futures For Fourth Consecutive Year At Benzinga Global Fintech Awards (https://ninjatrader.com/news/ninjatrader-named-best-brokerage-for-trading-futures-for-fourth-consecutive-year/)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
@@ -51,6 +50,9 @@ These companies often provide a mix of brokerage services, trading software, and
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 * Why do you think that offering this product or service would benefit the company?
+* Unique Features:
+* Pine Script: TradingView has developed its own scripting language called Pine Script, enabling users to customize tools​​.
+* Social Networking: A key differentiator is its social component, where users can follow other traders, publish charts, and live stream their analysis
 
 * What technologies would this additional product or service utilize?
 
