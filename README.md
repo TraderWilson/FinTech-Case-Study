@@ -24,11 +24,17 @@
 ## Landscape:
 
 * What domain of the financial industry is the company in?
+* NinjaTrader is primarily in the domain of futures brokerage.
+* The company offers trading software and brokerage services specifically designed for active futures traders​​.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
+* The futures trading industry has seen significant innovation in technology and accessibility. This includes the development of more user-friendly trading platforms, enhanced educational resources, and mobile trading applications.
+* NinjaTrader has been part of these trends by developing new technology, features, and products to make futures trading more accessible. This includes the introduction of mobile and web apps and a focus on educational tools to support informed trading decisions​​​​​​.
+* The industry has also seen a growth in cloud-based trading platforms, allowing traders to operate from various locations and devices, which NinjaTrader has embraced​
 
 * What are the other major companies in this domain?
-
+* The futures brokerage market includes a variety of players ranging from specialized boutique firms to large financial institutions offering futures trading services.
+These companies often provide a mix of brokerage services, trading software, and educational resources, similar to NinjaTrader's offerings, such as ThinkOrSwim, Interactive Broker, Quandl, and so on.
 
 ## Results
 
