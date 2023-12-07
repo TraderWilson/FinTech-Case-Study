@@ -9,7 +9,7 @@
 
 ## Business Activities:
 
-* TradingView offers a stock screener, foreign exchange screener, cryptocurrency pairs screener, cryptocurrency coins screener, and stock heatmap.
+* TradingView offers a stock screener, foreign exchange screener, cryptocurrency screener, and stock heatmap.
 * The platform makes most of its money through low cost monthly subscriptions and ads.
   - Subscription Fees: Offering different subscription plans (Pro, Pro+, Premium) with varying features and benefits​​.
   - Advertising: Monetizing through banner ads placed within its trading platform​​.
@@ -19,8 +19,8 @@
 ## Landscape:
 
 * **What domain of the financial industry is the company in?**
-  - Financial Charting and Analysis: TradingView specializes in providing a platform for financial charting and analysis, catering to both individual retail traders and institutional investors.
-  - Social Networking for Traders: A unique aspect of TradingView's offering is its integration of social networking features, where users can share insights, follow traders, and engage with a community.
+- Financial Charting and Analysis: TradingView specializes in providing a platform for financial charting and analysis, catering to both individual retail traders and institutional investors.
+- Social Networking for Traders: A unique aspect of TradingView's offering is its integration of social networking features, where users can share insights, follow traders, and engage with a community.
 
 * What have been the major trends and innovations of this domain over the last 5-10 years?
 * Social Trading and Community Features: Platforms like TradingView have integrated social networking elements, allowing users to share and discuss trading strategies, which has revolutionized how traders interact and learn from each other.
