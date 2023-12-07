@@ -38,21 +38,30 @@
 
 ## Results
 
-* What has been the business impact of this company so far?
+* **What has been the business impact of this company so far?**
+  - Democratizing Financial Analysis: TradingView has made sophisticated financial analysis tools more accessible to a wider audience, including retail traders.
+  - Social Trading Network: By integrating social networking features, TradingView has fostered a community where traders share insights and strategies, impacting how traders learn and make decisions.
+  - Technological Innovation: The introduction of their proprietary Pine Script language and user-friendly interface has set a benchmark in the industry for customizable and accessible financial analysis tools.
+    
+* **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
+  - User Base and Growth: The number of active users and the rate of user acquisition are key indicators. A growing user base suggests market acceptance and the value of the platform.
+  - Revenue Streams: This includes subscription revenues, ad revenues, and licensing fees. Diverse and growing revenue streams indicate financial health.
+  - User Engagement: Metrics such as daily active users, time spent on the platform, and social interaction rates (e.g., chart sharing, following other traders) are crucial.
+  - Technological Development: The pace of innovation and the introduction of new features or tools are important, especially in a tech-driven industry.
+  - Market Share: The company's position in the market relative to competitors is a critical measure.
 
-* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
-
-* How is your company performing relative to competitors in the same domain?
-
+* **How is your company performing relative to competitors in the same domain?**
+  - TradingView stands out for its combination of charting tools and social networking features, setting it apart from traditional platforms like Bloomberg Terminal or MetaTrader.
+  - Compared to other platforms focusing on social trading (e.g., eToro), TradingView offers more advanced and customizable analytical tools.
+  - In terms of user base and accessibility, TradingView competes favorably, especially given its lower pricing compared to more expensive professional tools like Bloomberg Terminal.
 
 ## Recommendations
 
 * If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
 
 * Why do you think that offering this product or service would benefit the company?
-* Unique Features:
-* Pine Script: TradingView has developed its own scripting language called Pine Script, enabling users to customize tools​​.
-* Social Networking: A key differentiator is its social component, where users can follow other traders, publish charts, and live stream their analysis
+  - Pine Script: TradingView has developed its own scripting language called Pine Script, enabling users to customize tools​​.
+  - Social Networking: A key differentiator is its social component, where users can follow other traders, publish charts, and live stream their analysis
 
 * What technologies would this additional product or service utilize?
 
