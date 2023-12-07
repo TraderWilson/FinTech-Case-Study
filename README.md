@@ -33,7 +33,7 @@
 ## Results
 
 * What has been the business impact of this company so far?
-* NinjaTrader Named Best Brokerage For Trading Futures For Fourth Consecutive Year At Benzinga Global Fintech Awards (https://ninjatrader.com/news/ninjatrader-named-best-brokerage-for-trading-futures-for-fourth-consecutive-year/)
+* NinjaTrader Named Best Brokerage For Trading Futures For Fourth Consecutive Year At Benzinga Global Fintech Awards(https://ninjatrader.com/news/ninjatrader-named-best-brokerage-for-trading-futures-for-fourth-consecutive-year/)
 
 * What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
 
