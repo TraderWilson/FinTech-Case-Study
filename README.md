@@ -8,16 +8,18 @@
 * DRW Venture Capital and Long Ridge Equity Partners are the most recent investors.
 * NinjaTrader has acquired Tradovate on Jan 12, 2022. They acquired Tradovate for $115M.
 
-
 ## Business Activities:
 
-* What specific financial problem is the company or project trying to solve?
-
-* Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
-
-* Which technologies are they currently using, and how are they implementing them? (This may take a little bit of sleuthing–– you may want to search the company’s engineering blog or use sites like Stackshare to find this information.)
-
+* Financial Problem Addressed: NinjaTrader primarily addresses the needs of active traders by providing a robust and efficient trading platform. It aims to solve issues like the need for advanced charting tools, market analytics, and efficient trade execution.
+* Intended Customer: The platform is designed for active traders, including both individual retail traders and professionals. This audience typically requires sophisticated tools for market analysis, strategy backtesting, and fast execution of trades.
+* Market Size: While specific market size data for NinjaTrader's customer base isn't readily available, the overall market for online trading platforms is substantial and has been growing, especially with the increasing popularity of individual retail trading.
+* Technologies Used: NinjaTrader uses advanced technologies for its trading platform, which include:
+** Real-time Market Data: Offering up-to-date market information.
+   Advanced Charting Tools: For detailed technical analysis.
+   Trade Simulation: Allowing traders to practice strategies in a simulated environment.
+   Automated Trading Capabilities: Enabling traders to automate their trading strategies.
+   Cloud-based Solutions: For accessibility and data security.
+* Implementation: These technologies are implemented through NinjaTrader's software platform, which is known for its customization capabilities, allowing traders to tailor the platform to their specific trading needs and strategies.
 
 ## Landscape:
 
