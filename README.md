@@ -14,11 +14,11 @@
 * Intended Customer: The platform is designed for active traders, including both individual retail traders and professionals. This audience typically requires sophisticated tools for market analysis, strategy backtesting, and fast execution of trades.
 * Market Size: While specific market size data for NinjaTrader's customer base isn't readily available, the overall market for online trading platforms is substantial and has been growing, especially with the increasing popularity of individual retail trading.
 * Technologies Used: NinjaTrader uses advanced technologies for its trading platform, which include:
-** Real-time Market Data: Offering up-to-date market information.
-   Advanced Charting Tools: For detailed technical analysis.
-   Trade Simulation: Allowing traders to practice strategies in a simulated environment.
-   Automated Trading Capabilities: Enabling traders to automate their trading strategies.
-   Cloud-based Solutions: For accessibility and data security.
+  Real-time Market Data: Offering up-to-date market information.
+  Advanced Charting Tools: For detailed technical analysis.
+  Trade Simulation: Allowing traders to practice strategies in a simulated environment.
+  Automated Trading Capabilities: Enabling traders to automate their trading strategies.
+  Cloud-based Solutions: For accessibility and data security.
 * Implementation: These technologies are implemented through NinjaTrader's software platform, which is known for its customization capabilities, allowing traders to tailor the platform to their specific trading needs and strategies.
 
 ## Landscape:
