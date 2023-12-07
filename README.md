@@ -1,17 +1,12 @@
-# FinTech-Case-Study
-# TITLE
+# NinjaTrader
 
 ## Overview and Origin
 
-* Name of company
-
-* When was the company incorporated?
-
-* Who are the founders of the company?
-
-* How did the idea for the company (or project) come about?
-
-* How is the company funded? How much funding have they received?
+* NinjaTrader was founded in 2003 and is headquartered in the Greater Denver Area. Its legal name is NinjaTrader Group, LLC.
+* Raymond Deux is the founder and Executive Chairman of NinjaTrader. He has worked at NinjaTrader Group for 21 years.
+* NinjaTrader has raised 1 round. This was a Private Equity round raised on Jan 6, 2020.
+* DRW Venture Capital and Long Ridge Equity Partners are the most recent investors.
+* NinjaTrader has acquired Tradovate on Jan 12, 2022. They acquired Tradovate for $115M.
 
 
 ## Business Activities:
