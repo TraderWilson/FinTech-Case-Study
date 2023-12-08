@@ -2,9 +2,9 @@
 
 ## Overview and Origin
 
-* TradingView was founded on September 1, 2011. The company was founded by Stan Bokov, Denis Globa, and Constantin Ivanov.
-* TradingView is a web-based financial platform that offers charting and social networking for traders and investors. It has over 50 million users globally. The platform helps users understand financial markets by discussing investment ideas in an open forum.
-* TradingView is headquartered in New York and has its European market headquarters in London. It has headquarters regions in Europe, Middle East, and Africa (EMEA).
+* Founded on September 1, 2011. The company was founded by Stan Bokov, Denis Globa, and Constantin Ivanov.
+* A web-based financial platform that offers charting and social networking for traders and investors. It has over 50 million users globally. The platform helps users understand financial markets by discussing investment ideas in an open forum.
+* Headquartered in New York and has its European market headquarters in London. It has headquarters regions in Europe, Middle East, and Africa (EMEA).
 * Since its inception, TradingView has experienced significant growth, raising over $338 million in venture funding and becoming the world’s leading charting platform​.
 
 ## Business Activities:
