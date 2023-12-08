@@ -6,7 +6,7 @@
 * A web-based financial platform that offers charting and social networking for traders and investors. It has over 50 million users globally. The platform helps users understand financial markets by discussing investment ideas in an open forum.
 * Headquartered in New York and has its European market headquarters in London. It has headquarters regions in Europe, Middle East, and Africa (EMEA).
 * Since its inception, TradingView has experienced significant growth, raising over $338 million in venture funding and becoming the world’s leading charting platform​.
-* More [details](https://www.crunchbase.com/organization/tradingview/company_financials)
+* More [details](https://www.crunchbase.com/organization/tradingview/company_financials).
 
 ## Business Activities:
 
