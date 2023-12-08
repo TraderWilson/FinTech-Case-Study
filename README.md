@@ -19,36 +19,36 @@
 ## Landscape:
 
 * **What domain of the financial industry is the company in?**
-  - Financial Charting and Analysis: TradingView specializes in providing a platform for financial charting and analysis, catering to both individual retail traders and institutional investors.
-  - Social Networking for Traders: A unique aspect of TradingView's offering is its integration of social networking features, where users can share insights, follow traders, and engage with a community.
+  - _Financial Charting and Analysis:_ TradingView specializes in providing a platform for financial charting and analysis, catering to both individual retail traders and institutional investors.
+  - _Social Networking for Traders:_ A unique aspect of TradingView's offering is its integration of social networking features, where users can share insights, follow traders, and engage with a community.
 
 * **What have been the major trends and innovations of this domain over the last 5-10 years?**
-  - Social Trading and Community Features: Platforms like TradingView have integrated social networking elements, allowing users to share and discuss trading strategies, which has revolutionized how traders interact and learn from each other.
-  - Accessibility and User-Friendly Interfaces: There has been a significant trend towards making complex financial data and charting more accessible and user-friendly for the average investor, including mobile app development.
-  - Customization and Advanced Analytical Tools: The development of proprietary scripting languages like TradingView's Pine Script has enabled deep customization and advanced analysis capabilities for users.
-  - Integration with Brokerages and Direct Trading: Some platforms now offer direct integration with brokerage accounts, allowing users to trade directly from the charting platform.
-  - Expansion into Cryptocurrency and Diverse Asset Classes: With the rise of cryptocurrency, many platforms have expanded to include a variety of asset classes beyond traditional stocks and forex.
+  - _Social Trading and Community Features:_ Platforms like TradingView have integrated social networking elements, allowing users to share and discuss trading strategies, which has revolutionized how traders interact and learn from each other.
+  - _Accessibility and User-Friendly Interfaces:_ There has been a significant trend towards making complex financial data and charting more accessible and user-friendly for the average investor, including mobile app development.
+  - _Customization and Advanced Analytical Tools:_ The development of proprietary scripting languages like TradingView's Pine Script has enabled deep customization and advanced analysis capabilities for users.
+  - _Integration with Brokerages and Direct Trading:_ Some platforms now offer direct integration with brokerage accounts, allowing users to trade directly from the charting platform.
+  - _Expansion into Cryptocurrency and Diverse Asset Classes:_ With the rise of cryptocurrency, many platforms have expanded to include a variety of asset classes beyond traditional stocks and forex.
 
 * **What are the other major companies in this domain?**
-  - Bloomberg Terminal: A major player providing comprehensive financial data, analysis tools, and a messaging network.
-  - MetaTrader (MT4/MT5): Widely used for forex trading, offering advanced charting tools, trading robots, and technical indicators.
-  - Thinkorswim by TD Ameritrade: Known for its powerful trading tools, especially for options trading, and integrating trading with educational resources.
-  - eToro: Combines social trading with a brokerage platform, allowing users to follow and copy the trades of experienced investors.
-  - Interactive Brokers: Offers a robust trading platform with advanced charting and analysis tools, catering to professional traders and investors.
+  - _Bloomberg Terminal:_ A major player providing comprehensive financial data, analysis tools, and a messaging network.
+  - _MetaTrader (MT4/MT5):_ Widely used for forex trading, offering advanced charting tools, trading robots, and technical indicators.
+  - _Thinkorswim by TD Ameritrade:_ Known for its powerful trading tools, especially for options trading, and integrating trading with educational resources.
+  - _eToro:_ Combines social trading with a brokerage platform, allowing users to follow and copy the trades of experienced investors.
+  - _Interactive Brokers:_ Offers a robust trading platform with advanced charting and analysis tools, catering to professional traders and investors.
 
 ## Results
 
 * **What has been the business impact of this company so far?**
-  - Democratizing Financial Analysis: TradingView has made sophisticated financial analysis tools more accessible to a wider audience, including retail traders.
-  - Social Trading Network: By integrating social networking features, TradingView has fostered a community where traders share insights and strategies, impacting how traders learn and make decisions.
-  - Technological Innovation: The introduction of their proprietary Pine Script language and user-friendly interface has set a benchmark in the industry for customizable and accessible financial analysis tools.
+  - _Democratizing Financial Analysis:_ TradingView has made sophisticated financial analysis tools more accessible to a wider audience, including retail traders.
+  - _Social Trading Network:_ By integrating social networking features, TradingView has fostered a community where traders share insights and strategies, impacting how traders learn and make decisions.
+  - _Technological Innovation:_ The introduction of their proprietary Pine Script language and user-friendly interface has set a benchmark in the industry for customizable and accessible financial analysis tools.
     
 * **What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?**
-  - User Base and Growth: The number of active users and the rate of user acquisition are key indicators. A growing user base suggests market acceptance and the value of the platform.
-  - Revenue Streams: This includes subscription revenues, ad revenues, and licensing fees. Diverse and growing revenue streams indicate financial health.
-  - User Engagement: Metrics such as daily active users, time spent on the platform, and social interaction rates (e.g., chart sharing, following other traders) are crucial.
-  - Technological Development: The pace of innovation and the introduction of new features or tools are important, especially in a tech-driven industry.
-  - Market Share: The company's position in the market relative to competitors is a critical measure.
+  - _User Base and Growth:_ The number of active users and the rate of user acquisition are key indicators. A growing user base suggests market acceptance and the value of the platform.
+  - _Revenue Streams:_ This includes subscription revenues, ad revenues, and licensing fees. Diverse and growing revenue streams indicate financial health.
+  - _User Engagement:_ Metrics such as daily active users, time spent on the platform, and social interaction rates (e.g., chart sharing, following other traders) are crucial.
+  - _Technological Development:_ The pace of innovation and the introduction of new features or tools are important, especially in a tech-driven industry.
+  - _Market Share:_ The company's position in the market relative to competitors is a critical measure.
 
 * **How is your company performing relative to competitors in the same domain?**
   - TradingView stands out for its combination of charting tools and social networking features, setting it apart from traditional platforms like Bloomberg Terminal or MetaTrader.
