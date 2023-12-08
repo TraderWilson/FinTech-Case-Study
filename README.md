@@ -29,7 +29,7 @@
   - Integration with Brokerages and Direct Trading: Some platforms now offer direct integration with brokerage accounts, allowing users to trade directly from the charting platform.
   - Expansion into Cryptocurrency and Diverse Asset Classes: With the rise of cryptocurrency, many platforms have expanded to include a variety of asset classes beyond traditional stocks and forex.
 
-* What are the other major companies in this domain?
+* **What are the other major companies in this domain?**
   - Bloomberg Terminal: A major player providing comprehensive financial data, analysis tools, and a messaging network.
   - MetaTrader (MT4/MT5): Widely used for forex trading, offering advanced charting tools, trading robots, and technical indicators.
   - Thinkorswim by TD Ameritrade: Known for its powerful trading tools, especially for options trading, and integrating trading with educational resources.
@@ -57,12 +57,8 @@
 
 ## Recommendations
 
-* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+* They could offer API for fundamental data of stocks. 
 
-* Why do you think that offering this product or service would benefit the company?
-  - Pine Script: TradingView has developed its own scripting language called Pine Script, enabling users to customize tools​​.
-  - Social Networking: A key differentiator is its social component, where users can follow other traders, publish charts, and live stream their analysis
+* If a platform can combine price charts with fundamental analysis, that would be a strong comunity.
 
-* What technologies would this additional product or service utilize?
-
-* Why are these technologies appropriate for your solution?
+* Many websites provide API for fundamental data, such as MorningStar and Finviz, so I think that should not be a technical problem.
