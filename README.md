@@ -1,4 +1,4 @@
-# TradingView
+# [TradingView](https://www.tradingview.com/)
 
 ## Overview and Origin
 
